@@ -1,0 +1,16 @@
+C:\Users\strad\RiderProjects\CSharpObjects\CSharpObjects\bin\Debug\net5.0\CSharpObjects.exe
+C:\Users\strad\RiderProjects\CSharpObjects\CSharpObjects\bin\Debug\net5.0\CSharpObjects.deps.json
+C:\Users\strad\RiderProjects\CSharpObjects\CSharpObjects\bin\Debug\net5.0\CSharpObjects.runtimeconfig.json
+C:\Users\strad\RiderProjects\CSharpObjects\CSharpObjects\bin\Debug\net5.0\CSharpObjects.runtimeconfig.dev.json
+C:\Users\strad\RiderProjects\CSharpObjects\CSharpObjects\bin\Debug\net5.0\CSharpObjects.dll
+C:\Users\strad\RiderProjects\CSharpObjects\CSharpObjects\bin\Debug\net5.0\ref\CSharpObjects.dll
+C:\Users\strad\RiderProjects\CSharpObjects\CSharpObjects\bin\Debug\net5.0\CSharpObjects.pdb
+C:\Users\strad\RiderProjects\CSharpObjects\CSharpObjects\obj\Debug\net5.0\CSharpObjects.csproj.AssemblyReference.cache
+C:\Users\strad\RiderProjects\CSharpObjects\CSharpObjects\obj\Debug\net5.0\CSharpObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strad\RiderProjects\CSharpObjects\CSharpObjects\obj\Debug\net5.0\CSharpObjects.AssemblyInfoInputs.cache
+C:\Users\strad\RiderProjects\CSharpObjects\CSharpObjects\obj\Debug\net5.0\CSharpObjects.AssemblyInfo.cs
+C:\Users\strad\RiderProjects\CSharpObjects\CSharpObjects\obj\Debug\net5.0\CSharpObjects.csproj.CoreCompileInputs.cache
+C:\Users\strad\RiderProjects\CSharpObjects\CSharpObjects\obj\Debug\net5.0\CSharpObjects.dll
+C:\Users\strad\RiderProjects\CSharpObjects\CSharpObjects\obj\Debug\net5.0\ref\CSharpObjects.dll
+C:\Users\strad\RiderProjects\CSharpObjects\CSharpObjects\obj\Debug\net5.0\CSharpObjects.pdb
+C:\Users\strad\RiderProjects\CSharpObjects\CSharpObjects\obj\Debug\net5.0\CSharpObjects.genruntimeconfig.cache
